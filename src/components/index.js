@@ -1,4 +1,4 @@
-export { default as Home } from "./home";
+export { default as Home } from "./Home";
 export { default as ArticleDetails } from "./ArticleDetails";
 export { default as Navbar } from "./Navbar";
 export { default as Login } from "./Login";
